@@ -1,6 +1,6 @@
 # Business-system
  
- [![Build Status](https://travis-ci.com/mishaelaaa/opencv-text-detection.svg?token=wspsaqLEAFcDhxFbHWvQ&branch=master)](https://travis-ci.com/mishaelaaa/opencv-text-detection)
+ [![Build Status](https://travis-ci.com/mishaelaaa/Business-system.svg?branch=main)](https://travis-ci.com/github/mishaelaaa/Business-system)
  
 # Scaning with camera
 We will use Nikon dslr as well as their image scanning software. The assigned task is to take certain identifying numbers after scanning a machine drawing. Then, you view an organization in the business structure.
